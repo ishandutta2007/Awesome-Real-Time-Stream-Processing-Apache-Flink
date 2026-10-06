@@ -62,69 +62,69 @@ Whether you are evaluating **Managed Apache Flink** on AWS or Confluent, impleme
 
 ## ⚡ Open-Source GitHub Projects
 
-### 🌟 Top Repositories (Sorted by Star Count)
+### 🌟 Top Repositories (Sorted by Stars_Count)
 
-- **[Apache Spark](https://github.com/apache/spark)** [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) ⚡  
+- **[Apache Spark](https://github.com/apache/spark)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) ⚡  
   **Unified batch and stream processing engine**, Apache-2.0 licensed. Features Spark Structured Streaming for micro-batch and continuous processing with exactly-once guarantees. **Best for teams needing unified batch, streaming, and ML pipelines**.
 
-- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) 🐙  
+- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) 🐙  
   **Distributed event streaming platform and stream processing library (Kafka Streams)**, Apache-2.0 licensed. Provides lightweight client library stream processing with stateful operations and exactly-once semantics without running a dedicated cluster. **Best for Kafka-native stream processing applications**.
 
-- **[Apache Flink](https://github.com/apache/flink)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🐿️  
+- **[Apache Flink](https://github.com/apache/flink)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🐿️  
   **The de facto standard for stateful stream processing**, Apache-2.0 licensed. True event-at-a-time streaming with low millisecond latency, advanced event-time processing, savepoints, and stateful calculations at massive scale. **Best for mission-critical, stateful stream processing at scale**.
 
-- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers) 🦀  
+- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub_Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers) 🦀  
   **High-performance observability data pipeline in Rust**, MPL-2.0 licensed. Lightweight log, metric, and event router designed to collect, transform, and stream data efficiently. **Best for high-throughput observability data routing**.
 
-- **[Logstash](https://github.com/elastic/logstash)** [![GitHub stars](https://img.shields.io/github/stars/elastic/logstash?style=social&color=white)](https://github.com/elastic/logstash/stargazers) 🪵  
+- **[Logstash](https://github.com/elastic/logstash)** [![GitHub_Stars](https://img.shields.io/github/stars/elastic/logstash?style=social&color=white)](https://github.com/elastic/logstash/stargazers) 🪵  
   **Server-side data processing pipeline**, Elastic License / Apache-2.0. Ingests data from a multitude of sources simultaneously, transforms it, and streams it to your favorite storage or analytics stash. **Best for log aggregation and Elastic ecosystem data pipelines**.
 
-- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers) 📄  
+- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers) 📄  
   **Unified logging layer and data collector**, Apache-2.0 licensed. Decouples data sources from backend systems by providing a unified JSON logging layer. **Best for unified log collection across microservices**.
 
-- **[Debezium](https://github.com/debezium/debezium)** [![GitHub stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers) 🗄️  
+- **[Debezium](https://github.com/debezium/debezium)** [![GitHub_Stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers) 🗄️  
   **The leading open-source Change Data Capture (CDC) platform**, Apache-2.0 licensed. Captures low-latency row-level changes from PostgreSQL, MySQL, MongoDB, Oracle, and SQL Server for stream processing. **Best for database change data capture and real-time database sync**.
 
-- **[Apache SeaTunnel](https://github.com/apache/seatunnel)** [![GitHub stars](https://img.shields.io/github/stars/apache/seatunnel?style=social&color=white)](https://github.com/apache/seatunnel/stargazers) 🌊  
+- **[Apache SeaTunnel](https://github.com/apache/seatunnel)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/seatunnel?style=social&color=white)](https://github.com/apache/seatunnel/stargazers) 🌊  
   **Very high-performance, distributed, massive data integration tool**, Apache-2.0 licensed. Supports real-time synchronization and streaming data pipeline execution across diverse data sources. **Best for high-throughput data integration and sync**.
 
-- **[RisingWave](https://github.com/risingwavelabs/risingwave)** [![GitHub stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers) 🌊  
+- **[RisingWave](https://github.com/risingwavelabs/risingwave)** [![GitHub_Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers) 🌊  
   **Distributed SQL streaming database**, Apache-2.0 licensed. PostgreSQL-compatible interface designed for real-time stream processing and incremental view updates with incremental materialized views. **Best for streaming SQL with database-like developer experience**.
 
-- **[Redpanda Connect (formerly Benthos)](https://github.com/redpanda-data/connect)** [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social&color=white)](https://github.com/redpanda-data/connect/stargazers) 🐼  
+- **[Redpanda Connect (formerly Benthos)](https://github.com/redpanda-data/connect)** [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social&color=white)](https://github.com/redpanda-data/connect/stargazers) 🐼  
   **Stream processing buffer and transformation engine without code**, Apache-2.0 licensed. Uses simple, declarative YAML pipelines to connect sources, execute transformations, and sink to stream destinations. **Best for lightweight, code-free streaming ETL**.
 
-- **[Apache Beam](https://github.com/apache/beam)** [![GitHub stars](https://img.shields.io/github/stars/apache/beam?style=social&color=white)](https://github.com/apache/beam/stargazers) 💡  
+- **[Apache Beam](https://github.com/apache/beam)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/beam?style=social&color=white)](https://github.com/apache/beam/stargazers) 💡  
   **Unified programming model for batch and stream processing pipelines**, Apache-2.0 licensed. Executes portably across execution backends including Apache Flink, Apache Spark, and Google Cloud Dataflow. **Best for portable pipelines across compute engines**.
 
-- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers) 🐝  
+- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers) 🐝  
   **Super-lightweight telemetry agent and stream processor in C**, Apache-2.0 licensed. Collects logs, metrics, and traces with extremely low memory footprint. **Best for containerized and edge event log streaming**.
 
-- **[Apache Storm](https://github.com/apache/storm)** [![GitHub stars](https://img.shields.io/github/stars/apache/storm?style=social&color=white)](https://github.com/apache/storm/stargazers) 🌩️  
+- **[Apache Storm](https://github.com/apache/storm)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/storm?style=social&color=white)](https://github.com/apache/storm/stargazers) 🌩️  
   **Distributed real-time computation system**, Apache-2.0 licensed. Pioneer of real-time stream processing with spouts and bolts for unbound stream processing. **Best for legacy real-time event processing workloads**.
 
-- **[Flink CDC](https://github.com/apache/flink-cdc)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink-cdc?style=social&color=white)](https://github.com/apache/flink-cdc/stargazers) 🔄  
+- **[Flink CDC](https://github.com/apache/flink-cdc)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink-cdc?style=social&color=white)](https://github.com/apache/flink-cdc/stargazers) 🔄  
   **Change Data Capture connectors for Apache Flink**, Apache-2.0 licensed. Enables database CDC directly via Flink SQL queries with schema evolution support. **Best for database stream ingestion into Flink tables**.
 
-- **[Materialize](https://github.com/MaterializeInc/materialize)** [![GitHub stars](https://img.shields.io/github/stars/MaterializeInc/materialize?style=social&color=white)](https://github.com/MaterializeInc/materialize/stargazers) 🔮  
+- **[Materialize](https://github.com/MaterializeInc/materialize)** [![GitHub_Stars](https://img.shields.io/github/stars/MaterializeInc/materialize?style=social&color=white)](https://github.com/MaterializeInc/materialize/stargazers) 🔮  
   **Streaming database built on Timely Dataflow**, BSL licensed. Provides PostgreSQL-compatible streaming SQL with continuous, incremental view maintenance and strong consistency guarantees. **Best for complex SQL join queries on real-time data streams**.
 
-- **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers) 🎛️  
+- **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers) 🎛️  
   **Automated data flow and data routing platform**, Apache-2.0 licensed. Provides visual drag-and-drop interface for managing real-time data streams, routing, and system integration. **Best for visual data flow automation and edge-to-cloud ingest**.
 
-- **[Arroyo](https://github.com/ArroyoSystems/arroyo)** [![GitHub stars](https://img.shields.io/github/stars/ArroyoSystems/arroyo?style=social&color=white)](https://github.com/ArroyoSystems/arroyo/stargazers) 🚀  
+- **[Arroyo](https://github.com/ArroyoSystems/arroyo)** [![GitHub_Stars](https://img.shields.io/github/stars/ArroyoSystems/arroyo?style=social&color=white)](https://github.com/ArroyoSystems/arroyo/stargazers) 🚀  
   **Distributed stream processing engine written in Rust**, Apache-2.0 licensed. Designed for low latency SQL streaming pipelines without requiring a JVM runtime. **Best for high-performance, Rust-native streaming SQL**.
 
-- **[Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink-kubernetes-operator?style=social&color=white)](https://github.com/apache/flink-kubernetes-operator/stargazers) ☸️  
+- **[Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink-kubernetes-operator?style=social&color=white)](https://github.com/apache/flink-kubernetes-operator/stargazers) ☸️  
   **Native Kubernetes operator for Apache Flink**, Apache-2.0 licensed. Automates life-cycle management, savepoints, HA, and auto-scaling for Flink jobs on Kubernetes clusters. **Best for running Flink applications natively on Kubernetes**.
 
-- **[Apache Samza](https://github.com/apache/samza)** [![GitHub stars](https://img.shields.io/github/stars/apache/samza?style=social&color=white)](https://github.com/apache/samza/stargazers) 📦  
+- **[Apache Samza](https://github.com/apache/samza)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/samza?style=social&color=white)](https://github.com/apache/samza/stargazers) 📦  
   **Stateful stream processing framework**, Apache-2.0 licensed. Built closely with Apache Kafka and YARN for stateful stream processing with local state management. **Best for large-scale stateful Kafka processing pipelines**.
 
-- **[Flink ML](https://github.com/apache/flink-ml)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink-ml?style=social&color=white)](https://github.com/apache/flink-ml/stargazers) 🤖  
+- **[Flink ML](https://github.com/apache/flink-ml)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink-ml?style=social&color=white)](https://github.com/apache/flink-ml/stargazers) 🤖  
   **Machine learning library for Apache Flink**, Apache-2.0 licensed. Provides machine learning algorithms and pipeline APIs for real-time online ML training and inference. **Best for real-time machine learning on continuous streams**.
 
-- **[ksqlDB](https://github.com/confluentinc/ksql)** [![GitHub stars](https://img.shields.io/github/stars/confluentinc/ksql?style=social&color=white)](https://github.com/confluentinc/ksql/stargazers) 🔍  
+- **[ksqlDB](https://github.com/confluentinc/ksql)** [![GitHub_Stars](https://img.shields.io/github/stars/confluentinc/ksql?style=social&color=white)](https://github.com/confluentinc/ksql/stargazers) 🔍  
   **Event streaming database purpose-built for Kafka**, Confluent Community License. Allows building stream processing applications using familiar SQL syntax on Kafka topics. **Best for SQL-based stream processing on Kafka streams**.
 
 ---
@@ -135,7 +135,7 @@ Contributions are always welcome! Help keep this streaming ecosystem directory u
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining the exact Markdown format.
-3. ℹ️ **Include**: Project Name, Official Link, Star Badge, 1–2 sentence description, License, and Key Use Case.
+3. ℹ️ **Include**: Project Name, Official Link, Stars_Badge, 1–2 sentence description, License, and Key Use Case.
 4. 🚀 **Submit a Pull Request** with a brief summary of the added platform or engine.
 
 ---
@@ -177,3 +177,12 @@ Thank you for being part of the real-time data streaming community! ❤️
   <b>Made with ❤️ for data engineers, streaming architects, and real-time data enthusiasts.</b><br />
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome">Awesome Awesome Awesome List</a>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Real-Time-Stream-Processing-Apache-Flink&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Real-Time-Stream-Processing-Apache-Flink_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Real-Time-Stream-Processing-Apache-Flink_growth.svg">
+  </picture>
+</a>
